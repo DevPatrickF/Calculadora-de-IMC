@@ -1,0 +1,55 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: grey;
+    
+      
+}   
+
+container { 
+    display: flex;
+    align-items: center;
+    gap:3,5rem;
+ }
+
+ img{
+    width: 32rem;
+  }
+
+.magreza
+.normal
+.sobrepeso
+.obeso
+.obesidadeMorbida {
+
+    font-size: 100px;
+}
+
+.description {
+    font-size: 60px;
+}
+
+.magreza { 
+    color:yellow;
+}
+
+
+.normal {
+    color:green;
+
+ }
+
+.sobrepeso { 
+    color:orange;
+}
+    
+.obeso { 
+    color:orangered;
+}
+
+.obesidadeMorbida { 
+    color:red;
+}
+ 
+
+
